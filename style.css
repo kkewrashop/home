@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: url('https://cdn.discordapp.com/attachments/935484941372895262/953346177129128046/rMtk9kpTURBXy9lMjg2ODIxZmExMzYxMjZhN2ZlNGNjNDE2NGFkZjIxMy5qcGeSlQNvAM0G8c0D6JMFzQMUzQG8gqEwBaExAA.png')
+    background: linear-gradient(70deg, #00FFC5, #000000);
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
